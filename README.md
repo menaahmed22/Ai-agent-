@@ -40,29 +40,31 @@ The system is composed of four cooperative agents:
 
 ## 📎 Example Output
 Input:
+-- Topic: text classification using NLP
 
-Topic: text classification using NLP
-
-Level: Beginner
+--  Level: Beginner
 
 Output:
 
-3–5 page PDF with:
+-- 3–5 page PDF with:
 
-Abstract
+-- Abstract
 
-introduction
+-- Introduction
 
-finds
+-- Findings
 
-Analysis
+-- Analysis
 
-Recommendation
+-- Conclusion
+
+-- Recommendation
 
 Curated links to original sources
 
 ## FlowChart 
-![Editor _ Mermaid Chart-2025-05-29-022520](https://github.com/user-attachments/assets/b0734a2c-69d6-4081-ad7e-cb3a0c28310b)
+![Editor _ Mermaid Chart-2025-05-29-040509](https://github.com/user-attachments/assets/3e9b3a7b-b34b-49ff-abd1-da15714703d9)
+
 
 
 ## 🙋‍♀️ Author
